@@ -3,5 +3,10 @@ def breakfast="Frosted Flakes"
 end
 breakfast
 def lunch="grilled cheese"
-  puts "In the afternoons I eat #{lunch}"
+  puts "In the afternoons I eat #{lunch}!"
 end 
+lunch
+def dinner= "salmon"
+  puts "At night I eat #{dinner}!"
+end
+dinner
