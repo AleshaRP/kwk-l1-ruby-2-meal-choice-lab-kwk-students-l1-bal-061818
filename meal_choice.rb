@@ -1,4 +1,4 @@
-def breakfast= "Frosted Flakes"
+def breakfast= "frosted flakes"
   puts "In the morning I eat #{breakfast}!"
 end
 breakfast
